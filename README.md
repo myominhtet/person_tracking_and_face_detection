@@ -22,5 +22,5 @@ In your google colab, folder destination should be like this
 
 Here is the demo :)
 
-[![Video Title](https://drive.google.com/uc?export=view&id=output (5).avi)](https://drive.google.com/file/d/output (5).avi/view)
+[![Video Title](https://drive.google.com/uc?export=view&id=https://drive.google.com/file/d/1OSoWv71qfAva29-SK-6ax6JJvPqC5pp9/view?usp=share_link)](https://drive.google.com/file/d/https://drive.google.com/file/d/1OSoWv71qfAva29-SK-6ax6JJvPqC5pp9/view?usp=share_link/view)
 
