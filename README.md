@@ -13,11 +13,9 @@ In your google colab, folder destination should be like this
 <summary>drive</summary>
 
 - [MyDrive](file1.md)
-- [Subfolder 1](subfolder1)
-  - [Subfile 1.1](subfolder1/subfile1.1.md)
-  - [Subfile 1.2](subfolder1/subfile1.2.md)
-- [Subfolder 2](subfolder2)
-  - [Subfile 2.1](subfolder2/subfile2.1.md)
-  - [Subfile 2.2](subfolder2/subfile2.2.md)
-
+- [deep_sort_pytorch-master]
+- [PyTorch-YOLOv3-master]
+- [yolov3.weights]
+- [feature_extraction.py]
+- [project.ipynb]
 </details>
